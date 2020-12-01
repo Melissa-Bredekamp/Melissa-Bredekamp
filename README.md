@@ -13,5 +13,5 @@ I would like to use technology to address issues such as:
 - :dancer: mental and physical fitness
 
 - [Linkedin](www.linkedin.com/in/melissa-bredekamp "Linkedin")
-- [Upleveled graduate profile](https://upleveled.io/graduates/melissa-bredekamp.html "Upleve)
+- [Upleveled graduate profile](https://upleveled.io/graduates/melissa-bredekamp.html)
 
