@@ -1,4 +1,4 @@
-Melissa Bredekamp
+## Melissa Bredekamp
 
 Hi there everyone :raised_hands:
 
@@ -12,5 +12,5 @@ I would like to use technology to address issues such as:
 - :two_women_holding_hands: inclusivity
 - :dancer: mental and physical fitness
 
-(https://upleveled.io/graduates/melissa-bredekamp.html)
-(www.linkedin.com/in/melissa-bredekamp)
+- (https://upleveled.io/graduates/melissa-bredekamp.html)
+- (www.linkedin.com/in/melissa-bredekamp)
