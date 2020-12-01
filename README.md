@@ -1,16 +1,16 @@
-### Hi there 👋
+Melissa Bredekamp
 
-<!--
-**Melissa-Bredekamp/Melissa-Bredekamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there everyone :raised_hands:
 
-Here are some ideas to get you started:
+I am a juniour web developer working on my final project (https://hobbymarketplace.herokuapp.com) at the :rocket: UpLeveled Bootcamp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :scroll: I have a background in law and teaching
+- :book: I am eager to learn as much as possible about web development
+
+I would like to use technology to address issues such as:
+- :corn: sustainability
+- :two_women_holding_hands: inclusivity
+- :dancer: mental and physical fitness
+
+(https://upleveled.io/graduates/melissa-bredekamp.html)
+(www.linkedin.com/in/melissa-bredekamp)
