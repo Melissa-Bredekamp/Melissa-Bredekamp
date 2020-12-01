@@ -2,7 +2,7 @@
 
 Hi there everyone :raised_hands:
 
-I am a juniour web developer working on my final project (https://hobbymarketplace.herokuapp.com) at the :rocket: UpLeveled Bootcamp
+I am a juniour web developer working on my final project [hobby marketplace](https://hobbymarketplace.herokuapp.com) at the :rocket: UpLeveled Bootcamp
 
 - :scroll: I have a background in law and teaching
 - :book: I am eager to learn as much as possible about web development
@@ -12,5 +12,6 @@ I would like to use technology to address issues such as:
 - :two_women_holding_hands: inclusivity
 - :dancer: mental and physical fitness
 
-- (https://upleveled.io/graduates/melissa-bredekamp.html)
-- (www.linkedin.com/in/melissa-bredekamp)
+- [Linkedin](www.linkedin.com/in/melissa-bredekamp "Linkedin")
+- [Upleveled graduate profile](https://upleveled.io/graduates/melissa-bredekamp.html "Upleve)
+
