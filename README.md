@@ -12,6 +12,6 @@ I would like to use technology to address issues such as:
 - :two_women_holding_hands: inclusivity
 - :dancer: mental and physical fitness
 
-- [Linkedin](www.linkedin.com/in/melissa-bredekamp "Linkedin")
+- [LinkedIn](https://www.linkedin.com/in/melissa-bredekamp)
 - [Upleveled graduate profile](https://upleveled.io/graduates/melissa-bredekamp.html)
 
